@@ -13,6 +13,7 @@
 		52F4B8401EED230800BDB55E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52F4B83E1EED230800BDB55E /* Main.storyboard */; };
 		52F4B8421EED230800BDB55E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52F4B8411EED230800BDB55E /* Assets.xcassets */; };
 		52F4B8451EED230800BDB55E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52F4B8431EED230800BDB55E /* LaunchScreen.storyboard */; };
+		52F4B84E1EED2E8C00BDB55E /* MyController.m in Sources */ = {isa = PBXBuildFile; fileRef = 52F4B84D1EED2E8C00BDB55E /* MyController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		52F4B8411EED230800BDB55E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		52F4B8441EED230800BDB55E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		52F4B8461EED230800BDB55E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		52F4B84C1EED2E8C00BDB55E /* MyController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyController.h; sourceTree = "<group>"; };
+		52F4B84D1EED2E8C00BDB55E /* MyController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				52F4B8391EED230800BDB55E /* AppDelegate.m */,
 				52F4B83B1EED230800BDB55E /* ViewController.h */,
 				52F4B83C1EED230800BDB55E /* ViewController.m */,
+				52F4B84C1EED2E8C00BDB55E /* MyController.h */,
+				52F4B84D1EED2E8C00BDB55E /* MyController.m */,
 				52F4B83E1EED230800BDB55E /* Main.storyboard */,
 				52F4B8411EED230800BDB55E /* Assets.xcassets */,
 				52F4B8431EED230800BDB55E /* LaunchScreen.storyboard */,
@@ -153,6 +158,7 @@
 				52F4B83D1EED230800BDB55E /* ViewController.m in Sources */,
 				52F4B83A1EED230800BDB55E /* AppDelegate.m in Sources */,
 				52F4B8371EED230800BDB55E /* main.m in Sources */,
+				52F4B84E1EED2E8C00BDB55E /* MyController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
